@@ -11,7 +11,7 @@ export const translations = {
     about: {
       title: "Sobre Mim",
       description:
-        "Sou um desenvolvedor front-end React.js e atualmente estou cursando Sistemas de Informação, com previsão de conclusão em 2025. Busco constantemente aprimorar minhas habilidades e aprender novas tecnologias.",
+        "Sou um desenvolvedor front-end especializado em React.js, atualmente cursando Sistemas de Informação, com previsão de graduação em 2025. Este curso abrange uma ampla gama de tópicos, incluindo desenvolvimento de software, engenharia de sistemas, bancos de dados, segurança cibernética e gerenciamento de TI. Tenho experiência em projetos pessoais e freelance, além de trabalhar na Dolphin como parte da equipe de experiência, com foco em React.js, TypeScript e Cypress.",
     },
     projects: {
       title: "Projetos em Destaque",
